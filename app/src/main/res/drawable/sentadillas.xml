@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/sentadillas0" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas1" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas2" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas3" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas4" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas5" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas6" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas7" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas8" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas9" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas10" android:duration="175" />
+    <item android:drawable="@drawable/sentadillas11" android:duration="175" />
+
+</animation-list>

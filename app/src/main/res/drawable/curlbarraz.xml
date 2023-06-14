@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/curlbarraz0" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz1" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz2" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz3" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz4" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz5" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz6" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz7" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz8" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz9" android:duration="175" />
+    <item android:drawable="@drawable/curlbarraz10" android:duration="175" />
+
+</animation-list>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="send">Registrar el nuevo usuario</string>
+    <string name="back">Volver</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="mis_rutinas">Mis rutinas</string>
+    <string name="ejercicios">Ejercicios</string>
+    <string name="salir">Salir</string>
+    <string name="edit_username">Modificar nombre de usuario</string>
+    <string name="edit_password">Modificar contraseña</string>
+    <string name="save_changes">Guardar cambios</string>
+    <string name="espalda">Espalda</string>
+    <string name="biceps">Biceps</string>
+    <string name="triceps">Triceps</string>
+    <string name="hombro">Hombro</string>
+    <string name="pectoral">Pectoral</string>
+    <string name="abdominal">Abdominal</string>
+    <string name="pierna">Pierna</string>
+    <string name="cardio">Cardio</string>
+    <string name="addRoutine">Añadir rutina</string>
+    <string name="deleteRoutine">Eliminar rutina</string>
+</resources>
+
+

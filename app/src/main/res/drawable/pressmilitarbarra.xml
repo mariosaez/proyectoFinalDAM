@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/pressmilitarbarra0" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra1" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra2" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra3" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra4" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra5" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra6" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra7" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra8" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra9" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra10" android:duration="175" />
+    <item android:drawable="@drawable/pressmilitarbarra11" android:duration="175" />
+
+</animation-list>

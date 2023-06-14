@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/apmancuerna0" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna1" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna2" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna3" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna4" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna5" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna6" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna7" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna8" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna9" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna10" android:duration="175" />
+    <item android:drawable="@drawable/apmancuerna11" android:duration="175" />
+
+</animation-list>

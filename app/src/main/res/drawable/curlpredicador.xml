@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/curlpredicador0" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador1" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador2" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador3" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador4" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador5" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador6" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador7" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador8" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador9" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador10" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador11" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador12" android:duration="175" />
+    <item android:drawable="@drawable/curlpredicador13" android:duration="175" />
+
+</animation-list>

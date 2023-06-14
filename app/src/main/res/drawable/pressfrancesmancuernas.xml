@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/pressfrancesmanc0" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc1" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc2" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc3" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc4" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc5" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc6" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc7" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc8" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc9" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc10" android:duration="175" />
+    <item android:drawable="@drawable/pressfrancesmanc11" android:duration="175" />
+
+</animation-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/fondos0" android:duration="175" />
+    <item android:drawable="@drawable/fondos1" android:duration="175" />
+    <item android:drawable="@drawable/fondos2" android:duration="175" />
+    <item android:drawable="@drawable/fondos3" android:duration="175" />
+    <item android:drawable="@drawable/fondos4" android:duration="175" />
+    <item android:drawable="@drawable/fondos5" android:duration="175" />
+    <item android:drawable="@drawable/fondos6" android:duration="175" />
+    <item android:drawable="@drawable/fondos7" android:duration="175" />
+    <item android:drawable="@drawable/fondos8" android:duration="175" />
+    <item android:drawable="@drawable/fondos9" android:duration="175" />
+    <item android:drawable="@drawable/fondos10" android:duration="175" />
+
+</animation-list>

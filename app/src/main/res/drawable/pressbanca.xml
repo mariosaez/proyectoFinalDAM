@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/pressbanca0" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca1" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca2" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca3" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca4" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca5" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca6" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca7" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca8" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca9" android:duration="300" />
+    <item android:drawable="@drawable/pressbanca10" android:duration="300" />
+
+</animation-list>

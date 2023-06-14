@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/remomenton0" android:duration="175" />
+    <item android:drawable="@drawable/remomenton1" android:duration="175" />
+    <item android:drawable="@drawable/remomenton2" android:duration="175" />
+    <item android:drawable="@drawable/remomenton3" android:duration="175" />
+    <item android:drawable="@drawable/remomenton4" android:duration="175" />
+    <item android:drawable="@drawable/remomenton5" android:duration="175" />
+    <item android:drawable="@drawable/remomenton6" android:duration="175" />
+
+</animation-list>

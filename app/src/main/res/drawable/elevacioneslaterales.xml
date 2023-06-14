@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/elelateral0" android:duration="175" />
+    <item android:drawable="@drawable/elelateral1" android:duration="175" />
+    <item android:drawable="@drawable/elelateral2" android:duration="175" />
+    <item android:drawable="@drawable/elelateral3" android:duration="175" />
+
+</animation-list>

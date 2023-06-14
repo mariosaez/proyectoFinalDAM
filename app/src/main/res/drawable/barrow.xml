@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/barrow0" android:duration="175" />
+    <item android:drawable="@drawable/barrow1" android:duration="175" />
+    <item android:drawable="@drawable/barrow2" android:duration="175" />
+    <item android:drawable="@drawable/barrow3" android:duration="175" />
+    <item android:drawable="@drawable/barrow4" android:duration="175" />
+    <item android:drawable="@drawable/barrow5" android:duration="175" />
+    <item android:drawable="@drawable/barrow6" android:duration="175" />
+    <item android:drawable="@drawable/barrow7" android:duration="175" />
+    <item android:drawable="@drawable/barrow8" android:duration="175" />
+    <item android:drawable="@drawable/barrow9" android:duration="175" />
+    <item android:drawable="@drawable/barrow10" android:duration="175" />
+
+</animation-list>

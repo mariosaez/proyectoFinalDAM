@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/tricepsextension0" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension1" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension2" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension3" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension4" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension5" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension6" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension7" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension8" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension9" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension10" android:duration="175" />
+    <item android:drawable="@drawable/tricepsextension11" android:duration="175" />
+
+</animation-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/pesomuerto1" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto2" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto3" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto4" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto5" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto6" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto7" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto8" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto9" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto10" android:duration="175" />
+    <item android:drawable="@drawable/pesomuerto11" android:duration="175" />
+
+</animation-list>

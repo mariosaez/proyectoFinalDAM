@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/pulldown0" android:duration="175" />
+    <item android:drawable="@drawable/pulldown1" android:duration="175" />
+    <item android:drawable="@drawable/pulldown2" android:duration="175" />
+    <item android:drawable="@drawable/pulldown3" android:duration="175" />
+    <item android:drawable="@drawable/pulldown4" android:duration="175" />
+    <item android:drawable="@drawable/pulldown5" android:duration="175" />
+    <item android:drawable="@drawable/pulldown6" android:duration="175" />
+    <item android:drawable="@drawable/pulldown7" android:duration="175" />
+    <item android:drawable="@drawable/pulldown8" android:duration="175" />
+    <item android:drawable="@drawable/pulldown9" android:duration="175" />
+    <item android:drawable="@drawable/pulldown10" android:duration="175" />
+    <item android:drawable="@drawable/pulldown11" android:duration="175" />
+
+</animation-list>
